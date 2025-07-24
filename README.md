@@ -1,6 +1,6 @@
 # Center Artwork Tool
 
-A minimal utility web app for centering artwork objects based on previous position and two offsets.
+A minimal utility chrome extension for centering artwork objects based on previous position and two offsets. Written in vite, react, tailwindcss, ts.
 
 ---
 
